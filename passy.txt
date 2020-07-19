@@ -1,0 +1,13 @@
+Daniel qwe123
+Adam adam123
+Robert robert123
+Wojtek wojtek123
+
+
+weryfikacja czy jest adminem zrobione
+komunikat jezeli pusta tabelka
+usuwanie i edycja w tabelce
+
+jezeli nie ma uzytkownikow poza zalogowanym adminem
+wpisac wartosci w pola edycji (pobrac z bazy danych SELECT) done
+zabezpieczenie w usuwaniu czy zostal jeden admin done
